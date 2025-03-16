@@ -1,0 +1,6 @@
+@XtramBackend_HostAddress = http://localhost:5074
+
+GET {{XtramBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
